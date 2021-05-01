@@ -13,6 +13,7 @@ font-size: 18px;
 canvas{
 box-shadow: 10px 10px 10px grey;
 border-radius: 10px;
+margin-top: 50px;
 }
 a{
     font-size: 25px;
@@ -21,4 +22,11 @@ a{
     width: 50%;
     border:black;
     border-radius: 10px;
+}
+#back{
+    width: 100px;
+    float: right;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 10px;
+    margin-right: 10px;
 }
